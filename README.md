@@ -1,6 +1,6 @@
 # Music-recommendation-engine
 
-Use web-scraping and NLP to build a music recommendation engine based on song meaning similarity
+Use web-scraping and NLP to create a music recommendation engine based on song meaning similarity
 
 Run song_meanings_nb.ipynb
 
